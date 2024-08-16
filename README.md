@@ -68,5 +68,5 @@ This game is for entertainment purposes only and does not guarantee the accuracy
 ## Authors
 Khyati Sisodia B22EE073 \
 Sonal Raj B22ME062 \
-Yash Golani B22ME072 \
+Yash Golani B22ME072 
 
