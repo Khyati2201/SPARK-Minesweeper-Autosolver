@@ -66,7 +66,7 @@ This script was developed and tested in a Python environment.
 This game is for entertainment purposes only and does not guarantee the accuracy of probabilities or the absence of bugs.
 
 ## Authors
-Aditya Kumar B22ME004 \
+Khyati Sisodia B22EE073 \
 Sonal Raj B22ME062 \
 Yash Golani B22ME072 \
-Sangameshwar Wanole B22CH029
+
